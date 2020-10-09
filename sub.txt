@@ -1,0 +1,6 @@
+https://github.com/HeropCode/GitHub-Responsive
+
+BEM 작명 규칙 (block element modify)
+__(double underbar) => A의 일부분인 B / class="A__B"
+--(double hyphen) => A의 상태가 B이다 / class="A--B"
+-(hyphen) => 일반적인 작명 / class="toggle-btn"...
